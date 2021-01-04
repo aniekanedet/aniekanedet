@@ -1,16 +1,23 @@
-### Hi there 👋
+### Aniekan Edet 😎
 
-<!--
-**aniekanedet/aniekanedet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋 thanks for coming around.😊
 
-Here are some ideas to get you started:
+I’m Aniekan, a freelance frontend developer 💼. 
+Passionate about building amazing looking websites for businesses 🏢 and personal brands to help grow their business online and expose them to a wider range of customers.🚀🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently focuses on building responsive user interfaces and maintaining the front-end functionalities for web applications
+
+## Tools I work with 🔩⛏⚒
+
+
+| -------- | -------------- |
+| HTML5, CSS3, JAVASCRIPT | GIT |
+| BOOTSTRAP, RWD, | NETLIFY, NETLIFY CMS |
+| VUEJS/NUXTJS, NODEJS, | WORDPRESS, SHOPIFY |
+| FIGMA, ADOBE ILLUSTRATION, PHOTOSHOP | JAMSTACK |
+
+
+
+## Get in touch 📱 ☎
+- Twitter: https://twitter.com/aniekanedett
+- Personal Website: https://aniekanedet.com 🌍

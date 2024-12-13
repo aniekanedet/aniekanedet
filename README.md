@@ -1,10 +1,10 @@
 Hi there 👋 
 
-I’m Aniekan, a creative frontend developer 💼 💻 with 3 years of experience, I am passionate about creating visually appealing and user-friendly interfaces for web applications. I have a strong proficiency in HTML, CSS, JavaScript, and various frontend frameworks such as Boostrap and React. 
+I’m Aniekan, a creative front-end developer 💼 💻. I am passionate about creating visually appealing and user-friendly interfaces for web applications. I am highly proficient in HTML, CSS, JavaScript, and various front-end frameworks such as Bootstrap and React. 
 
-I have collaborated with cross-functional teams to deliver projects within tight deadlines and have experience in implementing responsive designs that work seamlessly across all devices. 
+I have collaborated with cross-functional teams to deliver projects within tight deadlines and have experience implementing responsive designs that work seamlessly across all devices. 
 
-My expertise also includes integrating third-party APIs and optimizing website performance for better user experience. With a keen eye for detail and a commitment to delivering quality work, I am confident in my ability to tackle any frontend development challenge.
+My expertise also includes integrating third-party APIs and optimizing website performance for better user experience. With a keen eye for detail and a commitment to delivering quality work, I can tackle any front-end development challenge.
 
 ### Tools I work with 🔩⛏⚒
 

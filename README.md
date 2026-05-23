@@ -1,6 +1,8 @@
 Hi there 👋 
 
-I’m Aniekan, a creative front-end developer 💼 💻. I am passionate about creating visually appealing and user-friendly interfaces for web applications. I am highly proficient in HTML, CSS, JavaScript, and various front-end frameworks such as Bootstrap and React. 
+I’m Aniekan, a creative front-end developer 💼 💻 
+
+I am passionate about creating visually appealing and user-friendly interfaces for web applications. I am highly proficient in HTML, CSS, JavaScript, and various front-end frameworks such as Bootstrap and React. 
 
 I have collaborated with cross-functional teams to deliver projects within tight deadlines and have experience implementing responsive designs that work seamlessly across all devices. 
 
@@ -8,14 +10,14 @@ My expertise also includes integrating third-party APIs and optimizing website p
 
 ### Tools I work with 🔩⛏⚒
 
-| HTML5, CSS3     | JAVASCRIPT | BOOTSTRAP, RWD     |
+| HTML5, CSS3     | JAVASCRIPT | BOOTSTRAP, Tailwind CSS, RWD     |
 | :---        |    :----:   |          ---: |
 | REACTJS/NEXTJS | JAMSTACK | WORDPRESS |
-| FIGMA | GIT |  NETLIFY|
+| FIGMA | GIT |  NETLIFY | Firebass | Supabase |
 
 
 
 ### Get in touch 📱 
-- Twitter: https://twitter.com/aniekanedett 💬
-- Behance: [https://behance.net/aniekanedet3](https://www.behance.net/aniekanedet3) 🌅 
-- LinkedIn: [https://linkedin.com/in/aniekan-edet/](https://www.linkedin.com/in/aniekan-edet/) 🌍
+- X: twitter.com/aniekanedett 
+- Behance: [behance.net/aniekanedet3](https://www.behance.net/aniekanedet3)  
+- LinkedIn: [linkedin.com/in/aniekan-edet/](https://www.linkedin.com/in/aniekan-edet/) 
